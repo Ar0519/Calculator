@@ -13,7 +13,9 @@ Clear and responsive design using AWT and Swing components
 Technologies:
 
 Java
+
 AWT (Abstract Window Toolkit)
+
 Swing
 
 Feel free to explore the code, suggest improvements, or contribute to the project!
